@@ -1,5 +1,11 @@
 # AlzCare — "Compassionate Guardian"
-## Alzheimer's AI Support System
+## Alzheimer's AI Support System - A Team Project
+
+## 🛠️ My Contributions
+This project was developed collaboratively through pair-programming. My specific technical contributions include:
+* **System Architecture:** Designed the local-first architecture to prioritize data privacy and minimize latency.
+* **Voice-to-Response Pipeline:** Engineered the end-to-end workflow connecting audio processing (speech-to-text) with the underlying Natural Language Processing (NLP) models.
+* **Frontend Engineering:** Built the cross-platform user interface using **Flutter and Dart**, focusing on high accessibility, large touch targets, and a frictionless user experience for patients.
 
 ```
 alzcare_v2/
